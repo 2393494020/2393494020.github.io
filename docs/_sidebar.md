@@ -5,9 +5,9 @@
 * [多语言](多语言)
 * [权限控制](权限控制)
 * [全局指令](全局指令)
-* [英语]
+* [英语](en/colloquialism)
   * [语法](en/grammar)
-  * [口语](en/口语)
+  * [口语](en/colloquialism)
   * [CountTo](count-to)
   * [Editor](editor)
   * [Markdown](markdown)
