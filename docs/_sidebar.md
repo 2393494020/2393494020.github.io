@@ -5,9 +5,9 @@
 * [多语言](多语言)
 * [权限控制](权限控制)
 * [全局指令](全局指令)
-* [组件](组件)
-  * [Icons](icons)
-  * [CommonIcon](common-icon)
+* [英语]
+  * [语法](en/grammar)
+  * [口语](en/口语)
   * [CountTo](count-to)
   * [Editor](editor)
   * [Markdown](markdown)
