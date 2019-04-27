@@ -1,4 +1,5 @@
 - 纠正中式英语
+
 ```
 1.用英语怎么说？
 How do you say this in English?
@@ -12,18 +13,22 @@ What line of work are you in?
 ```
 
 - 不同意
+
 ```
 I beg to differ.
 I see your point, but the cost is not worth it.
 Look at in this way...
 ```
+
 - 不喜欢
+
 ```
 I'm not fond of playing chess. How about another game?
 I have to say, I'm not a big fan of horror movies.
 ```
 
 - 你错了
+
 ```
 Actually, you should say/do
 ```
