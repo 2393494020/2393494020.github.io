@@ -1,4 +1,3 @@
-* [简历](profile)
 * [机器学习](ml)
 * [深度学习](dl)
 * [微积分](calculus/introduction)
@@ -8,3 +7,6 @@
   * [口语](en/colloquialism)
   * [语法](en/grammar)
   * [词汇](en/vocabulary)
+* [工具](tools/bookmarks)
+  * [docker](tools/docker)
+* [简历](profile)

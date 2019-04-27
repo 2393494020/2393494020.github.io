@@ -1,3 +1,3 @@
 # Overview
 
-![](../images/profile.png)
+![](../images/Eagle.jpg)
