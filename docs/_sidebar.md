@@ -1,7 +1,7 @@
 * [简历](profile)
 * [机器学习](ml)
 * [深度学习](dl)
-* [微积分](calculus/limit)
+* [微积分](calculus/introduction)
   * [极限](calculus/limit)
   * [连续](calculus/continuity)
 * [英语](en/colloquialism)
