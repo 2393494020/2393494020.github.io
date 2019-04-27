@@ -1,3 +1,43 @@
+- 纠正中式英语
+```
+1.用英语怎么说？
+How do you say this in English?
+
+2.你是做什么工作的呢？
+Are you working at the moment?
+Where are you working these days?
+What line of work are you in?
+
+3.
+```
+
+- 不同意
+```
+I beg to differ.
+I see your point, but the cost is not worth it.
+Look at in this way...
+```
+- 不喜欢
+```
+I'm not fond of playing chess. How about another game?
+I have to say, I'm not a big fan of horror movies.
+```
+
+- 你错了
+```
+Actually, you should say/do
+```
+
+- 我想静静
+
+```
+clear one's head
+
+eg.
+Leave me alone, I want to clear my head.
+I need to get some fresh air to clear my head.
+```
+
 - 老司机
 
 ```
