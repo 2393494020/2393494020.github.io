@@ -14,7 +14,7 @@ credit 信用、信誉、积分；话费
 
 eg.
 My cellphone ran out of credit.
-My mobile is out of credit, I have to top up it.
+My mobile phone is out of credit, I have to top up it.
 ```
 
 - 不同意
