@@ -7,8 +7,8 @@
   - [口语](en/colloquialism)
   - [语法](en/grammar)
   - [词汇](en/vocabulary)
-- [工具](tools/bookmarks)
-  - [docker](tools/docker)
+- [Awesome](awesome/awesome)
+  - [docker](awesome/docker)
 - [简历](profile)
 - **Links**
 - [docsify](https://docsify.js.org)
