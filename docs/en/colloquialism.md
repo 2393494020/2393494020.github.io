@@ -9,7 +9,12 @@ Are you working at the moment?
 Where are you working these days?
 What line of work are you in?
 
-3.
+3.手机欠费
+credit 信用、信誉、积分；话费
+
+eg.
+My cellphone ran out of credit.
+My mobile is out of credit, I have to top up it.
 ```
 
 - 不同意
