@@ -9,6 +9,7 @@
   - [词汇](en/vocabulary)
 - [Awesome](awesome/awesome)
   - [docker](awesome/docker)
+  - [zookeeper](awesome/zookeeper)
 - [简历](profile)
 - **Links**
 - [docsify](https://docsify.js.org)
