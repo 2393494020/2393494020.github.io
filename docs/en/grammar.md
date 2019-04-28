@@ -33,6 +33,13 @@ a little hope 还有希望
 
 - doing
 
+```
+动名词作主语，通常表示已知的事实或曾经做过的经验
+
+eg.
+Collecting stamps is one of his hobbies.
+```
+
 - to do
 
 - done

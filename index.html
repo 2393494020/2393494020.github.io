@@ -12,12 +12,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      // name: 'Powered by docsify',
+      name       : 'who',
+      repo       : 'https://github.com/2393494020/2393494020.github.io',
       loadSidebar: true,
-      basePath: './docs/',
-      homepage: 'profile.md',
-      maxLevel: 4,
-      subMaxLevel: 3
+      basePath   : './docs/',
+      homepage   : 'profile.md',
+      maxLevel   : 4,
+      subMaxLevel: 3,
+      auto2top   : true,
+      search     : {
+          depth      : 4,
+          noData     : 'No results!',
+          placeholder: 'Search...'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
