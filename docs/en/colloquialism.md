@@ -15,6 +15,17 @@ credit 信用、信誉、积分；话费
 eg.
 My cellphone ran out of credit.
 My mobile phone is out of credit, I have to top up it.
+
+4.你真乖
+You are truly well-behaved! I'm proud of you.
+
+5.你完了
+screwed 搞砸的，有麻烦的
+
+eg.
+You are screwed.
+You are dead.
+You are done.
 ```
 
 - 不同意
