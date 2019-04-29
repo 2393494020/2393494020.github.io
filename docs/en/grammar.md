@@ -102,25 +102,55 @@ a little hope 还有希望
 - doing
 
 ```
-动名词作主语，通常表示已知的事实或曾经做过的经验
+动名词作主语，通常表示已知的事实或曾经做过的经验。
+如果主语太长，常将 it 置于句首作形式主语，将真正主语置于句尾。动名词移至句尾时，改为不定式。
+特殊句型：
+It is no use + 动名词短语
+There is no use|sense|point in + 动名词短语
+It is useless + 不定式短语
+It is of no use + 不定式短语
 
 eg.
 Collecting stamps is one of his hobbies.
+It is one of his hobbies to collect stamps.
+It is no use crying over spilt milk.
+There is no use in crying over spilt milk.
+It is useless to cry over spilt milk.
+It is of no use to cry over spilt milk.
 ```
 
 - to do
 
+```
+不定式作主语，表示一种意愿、目的或未完成的事。
+
+eg.
+To study abroad is my greatest desire.
+```
+
 - done
+
+```
+
+```
+
+### 从句
+
+- 名词性从句
+  
+  名词性从句包括：宾语从句、主语从句、表语从句、同位语从句。
+  
+  名词性从句一共有三种：that 从句、whether 从句、疑问词所引导的从句
 
 ### 虚拟语气
 
 - 真实条件句
+  
+  真实条件句用于陈述语气，假设的情况可能发生，其中if是如果的意思。
+  
+  句型时态：条件从句：一般现在时；主句：shall/will + 动词原形
 
 ```
-真实条件句用于陈述语气，假设的情况可能发生，其中if是如果的意思。
-句型时态：条件从句：一般现在时；主句：shall/will + 动词原形
-
-eg.
 If he comes, he will bring his violin.
 The volleyball match will be put off if it rains.
 ```
