@@ -1,12 +1,11 @@
-- [计算机组成]
-  - [概要与技术](cod/abstractions)
+- [计算机组成](cod/index)
   - [指令系统](cod/)
   - [算术运算](cod/)
   - [处理器](cod/)
   - [存储层次结构](cod/)
 - [机器学习](ml)
 - [深度学习](dl)
-- [微积分](calculus/introduction)
+- [微积分](calculus/index)
   - [极限](calculus/limit)
   - [连续](calculus/continuity)
 - 英语
