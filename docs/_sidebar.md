@@ -1,7 +1,7 @@
 - [数据结构与算法](dsa/index)
   - [树](dsa/trees)
 - [计算机原理](cod/index)
-  - [指令系统](cod/)
+  - [指令系统](cod/instructions)
   - [算术运算](cod/)
   - [处理器](cod/)
   - [存储层次结构](cod/)
