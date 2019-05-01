@@ -14,9 +14,10 @@
   - [微分](calculus/differentiation)
 - 英语
   - [语法](en/grammar)
+  - [词汇](en/vocabulary)
   - [英语国家概况](en/english_speaking_country)
   - [口语](en/colloquialism)
-  - [词汇](en/vocabulary)
+  - [阅读](en/reading)
 - [Awesome](awesome/awesome)
   - [docker](awesome/docker)
   - [zookeeper](awesome/zookeeper)
