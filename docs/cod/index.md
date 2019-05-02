@@ -15,7 +15,7 @@ X
 PSW
 
 #### 存储器
-MAR Memory Address Register
+MAR Memory Address Register  
 MDR Memory Data Register
 
 #### 外频
