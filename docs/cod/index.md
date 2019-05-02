@@ -18,25 +18,10 @@ PSW
 MAR Memory Address Register
 MDR Memory Data Register
 
-
 #### 外频
 
 外部频率或基频，也叫系统时钟频率。
 系统振荡器——>(外频信号)——>频率放大
-
-```mermaid
-graph LR
-A-->B
-B-->C
-C-->A
-```
-
-<div class="mermaid">
-  graph LR
-      A --- B
-      B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
-  </div>
 
 #### CPU 性能指标
 
