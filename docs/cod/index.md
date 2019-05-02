@@ -24,14 +24,13 @@ MDR Memory Data Register
 外部频率或基频，也叫系统时钟频率。
 系统振荡器——>(外频信号)——>频率放大
 
-<div class="mermaid">
-    graph TD
+```mermaid
     A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me thinksssss<br/>ssssssssssssssssssssss<br/>sssssssssssssssssssssssssss}
+    B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[Car]
-</div>
+```
 
 #### CPU 性能指标
 
