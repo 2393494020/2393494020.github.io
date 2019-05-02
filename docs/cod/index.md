@@ -25,12 +25,10 @@ MDR Memory Data Register
 系统振荡器——>(外频信号)——>频率放大
 
 ```mermaid
-graph TB
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[Car]
+graph LR
+  A --> B;
+  B --> C;
+  C --> A;
 ```
 
 #### CPU 性能指标
