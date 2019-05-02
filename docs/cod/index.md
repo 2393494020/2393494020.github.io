@@ -26,9 +26,9 @@ MDR Memory Data Register
 
 ```mermaid
 graph LR
-  A --> B;
-  B --> C;
-  C --> A;
+A-->B
+B-->C
+C-->A
 ```
 
 #### CPU 性能指标
