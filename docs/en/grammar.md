@@ -182,6 +182,10 @@ The volleyball match will be put off if it rains.
 
 ```
 
+### 所有格
+
+人与其它生物可用 's ；无生物用 of ... 的介系动词短语形式来表示
+
 ### 情态动词
 
 ### 复句（complex sentences）

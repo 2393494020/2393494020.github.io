@@ -17,3 +17,24 @@ PSW
 #### 存储器
 MAR Memory Address Register
 MDR Memory Data Register
+
+
+#### 外频
+
+外部频率或基频，也叫系统时钟频率。
+系统振荡器——>(外频信号)——>频率放大
+
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+#### CPU 性能指标
+
+1. 主频 = 外频 x 倍频系数
+2. ips，每秒执行指令数
