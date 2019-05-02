@@ -31,6 +31,13 @@ B-->C
 C-->A
 ```
 
+<div class="mermaid">
+  graph LR
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
+  </div>
+
 #### CPU 性能指标
 
 1. 主频 = 外频 x 倍频系数
