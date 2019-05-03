@@ -1,4 +1,19 @@
 # Computer Organization And Design
+
+Programmers who seek to build competitive versions of software will therefore need to increase their knowledge of computer organization.
+
+- Eight Great Ideas in Computer Architecture
+  
+  Design for Moore's Law  
+  Use Abstraction to Simplify Design  
+  Make the Common Case Fast  
+  Performance via Parallelism  
+  Performance via Pipelining  
+  Performance via Prediction  
+  Hierarchy of Memories  
+  Dependability via Redundancy
+
+
 #### 进制转换
 
 ![](../../images/cod/10_p.png)
