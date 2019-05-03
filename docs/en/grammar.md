@@ -1,3 +1,13 @@
+### 句子成分
+
+- 状语（adverbial）
+
+  Pumas are large, cat-like animals which are found `in America`.  
+  The reports were not taken `seriously`.  
+  Jack is `always` raising money `for one cause or another`.  
+  An interesting discovery was made `by archaeologists` `on the Aegean island of Kea`.
+
+
 ### 简单句（simple sentences）
 
 - sv（主语 + 动词）
@@ -30,12 +40,12 @@ eg.
 John killed three enemy soldiers.
 ```
 
-- svc（主语 + 连接动词 + 补语）
+- svc（主语 + 连接动词 + 表语 | 补语[complement]）
 
 ```
 be + 名词/形容词
 
-感观动词：
+感观（系）动词：
 look
 seem       似乎是
 appear
@@ -44,7 +54,7 @@ feel
 taste
 smell
 
-变化动词：
+变化（系）动词：
 turn
 prove
 become
@@ -53,7 +63,7 @@ go
 get
 grow
 
-静止动词：
+静止（系）动词：
 stay
 remain
 keep
@@ -65,6 +75,7 @@ keep
 4. 介宾（介词 + 名词）：in the room；to doing
 
 eg.
+The film star is very popular with young people.
 The dog seems friendly.
 The trip sounds exciting.
 The story proved false.
@@ -181,6 +192,11 @@ The volleyball match will be put off if it rains.
 ```
 
 ```
+
+### 名词化形容词
+
+eg.
+The rich
 
 ### 所有格
 
