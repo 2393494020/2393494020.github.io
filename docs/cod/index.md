@@ -1,6 +1,6 @@
 # Computer Organization And Design
 
-Programmers who seek to build competitive versions of software will therefore need to increase their knowledge of computer organization.
+  Programmers who seek to build competitive versions of software will therefore need to increase their knowledge of computer organization.
 
 - Eight Great Ideas in Computer Architecture
   
@@ -12,8 +12,6 @@ Programmers who seek to build competitive versions of software will therefore ne
   Performance via Prediction  
   Hierarchy of Memories  
   Dependability via Redundancy
-
-## Basic Components of a Computer
 
 ### 冯.诺依曼
 
@@ -64,4 +62,11 @@ Programmers who seek to build competitive versions of software will therefore ne
   ![](../../images/cod/10_p.png)  
   ![](../../images/cod/p_10.png)
 
-## 原码 反码 补码
+## 编码
+
+- 原码
+  
+- 反码
+  
+- 补码
+  
