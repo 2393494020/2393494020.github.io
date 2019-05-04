@@ -13,7 +13,9 @@ Programmers who seek to build competitive versions of software will therefore ne
   Hierarchy of Memories  
   Dependability via Redundancy
 
-- 冯.诺依曼
+## Basic Components of a Computer
+
+### 冯.诺依曼
 
   运算器，CA：central arithmetical  
   控制器，CC：central control  
@@ -21,40 +23,31 @@ Programmers who seek to build competitive versions of software will therefore ne
   输入，I   ：input  
   输出，O   ：output
 
-- 指令执行主要步骤
+#### 模型机
+
+  ![](../../images/cod/model.png)
+  
+  - 存储器
+    
+    ![](../../images/cod/m.png)
+  
+  - 控制器
+    
+    ![](../../images/cod/cc.png)  
+    ![](../../images/cod/cc1.png)  
+    ![](../../images/cod/cc2.png)
+
+  - 运算器
+  
+    ![](../../images/cod/ca.png)  
+    ![](../../images/cod/ca1.png)
+  
+#### 指令执行主要步骤
 
   取指（fetch）  
   译码（decode）  
   执行（execute）  
   回写（write-back）
-
-- 模型机
-
-  ![](../../images/cod/model.png)
-  
-  - 存储器
-
-    ![](../../images/cod/m.png)
-  - 
-  
-- 进制转换
-
-  ![](../../images/cod/10_p.png)  
-  ![](../../images/cod/p_10.png)
-
-#### 原码 反码 补码
-
-#### 运算器
-
-MQ
-ACC
-ALU
-X
-PSW
-
-#### 存储器
-MAR Memory Address Register  
-MDR Memory Data Register
 
 #### 外频
 
@@ -65,3 +58,10 @@ MDR Memory Data Register
 
 1. 主频 = 外频 x 倍频系数
 2. ips，每秒执行指令数
+
+## 进制转换
+
+  ![](../../images/cod/10_p.png)  
+  ![](../../images/cod/p_10.png)
+
+## 原码 反码 补码
