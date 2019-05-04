@@ -13,7 +13,21 @@ Programmers who seek to build competitive versions of software will therefore ne
   Hierarchy of Memories  
   Dependability via Redundancy
 
+- 冯.诺依曼
 
+  运算器，CA：central arithmetical
+  控制器，CC：central control
+  存储器，M ：memory
+  输入，I   ：input
+  输出，O   ：output
+
+- 指令执行主要步骤
+
+  取指（fetch）
+  译码（decode）
+  执行（execute）
+  回写（write-back）
+  
 #### 进制转换
 
 ![](../../images/cod/10_p.png)
