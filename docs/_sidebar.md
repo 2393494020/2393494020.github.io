@@ -12,8 +12,7 @@
 - [机器学习](ml)
 - [深度学习](dl)
 - [微积分](calculus/index)
-  - [极限](calculus/limit)
-  - [连续](calculus/continuity)
+  - [极限与连续](calculus/limit_continuity)
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
 - **英语**
