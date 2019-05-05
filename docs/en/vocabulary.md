@@ -17,6 +17,12 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
 ```
 
+- arouse
+- treatment
+- exotic
+- leisure
+- casual
+
 - psychological
 - special | particular | peculiar
 
@@ -43,7 +49,7 @@ He has developed from a child into an adult.
 
 - sneak
 
-to go somewhere secretly, or to take someone or something somewhere secretly
+  to go somewhere secretly, or to take someone or something somewhere secretly
 
 ```
 eg.

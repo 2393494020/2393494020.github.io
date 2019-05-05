@@ -35,68 +35,69 @@ The universe remains. 宇宙长存
 
 - svo（主语 + 动词 + 受词）
 
-  ```
-  eg.
-  John killed three enemy soldiers.
-  ```
+```
+eg.
+John killed three enemy soldiers.
+```
 
 - svc（主语 + 连接动词 + 表语 | 补语[complement]）
 
-  ```
-  be + 名词/形容词
+```
+be + 名词/形容词
 
-  感观（系）动词：
-  look
-  seem       似乎是
-  appear
-  sound
-  feel
-  taste
-  smell
+感观（系）动词：
+look
+seem       似乎是
+appear
+sound
+feel
+taste
+smell
 
-  变化（系）动词：
-  turn
-  prove
-  become
-  make
-  go
-  get
-  grow
+变化（系）动词：
+turn
+prove
+become
+make
+go
+get
+grow
 
-  静止（系）动词：
-  stay
-  remain
-  keep
+静止（系）动词：
+stay
+remain
+keep
 
-  补语可以是：
-  1. 名词
-  2. 形容词
-  3. 不定式
-  4. 介宾（介词 + 名词）：in the room；to doing
+补语可以是：
+1. 名词
+2. 形容词
+3. 不定式
+4. 介宾（介词 + 名词）：in the room；to doing
 
-  eg.
-  The film star is very popular with young people.
-  The dog seems friendly.
-  The trip sounds exciting.
-  The story proved false.
-  The tree has grown much taller than before.
-  Leaves turn yellow in autumn.
-  A nurse makes a good wife.
-  We should remain modest and prudent andy time.
-  ```
+eg.
+The film star is very popular with young people.
+The dog seems friendly.
+The trip sounds exciting.
+The story proved false.
+The tree has grown much taller than before.
+Leaves turn yellow in autumn.
+A nurse makes a good wife.
+We should remain modest and prudent andy time.
+```
 
 - svoo（主语 + 动词 + 受词 + 受词）
 
 - svoc（主语 + 动词 + 受词 + 补语）
 
 - “双宾” 和 “宾 + 宾补” 的判断方法
+  
   在两个名词之间加入“是”进行偿试，如不合逻辑，则两个名词为双宾关系；如符合逻辑，则两个名词为宾语和宾补关系。
 
-  ```
-  eg.
-  I gave her(是) a Teddy Bear.
-  We elected John(是) monitor.
-  ```
+```
+eg.
+I gave her(是) a Teddy Bear.
+We elected John(是) monitor.
+```
 
 ### 时态（tense）
 

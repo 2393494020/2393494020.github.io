@@ -28,6 +28,15 @@ You are dead.
 You are done.
 ```
 
+- 过奖了
+
+```
+flatter 奉承，夸赞
+
+eg.
+You're flattering me!
+```
+
 - 不同意
 
 ```
