@@ -1,6 +1,7 @@
+- [cpp](cpp/index)
 - [数据结构与算法](dsa/index)
   - [树](dsa/trees)
-- 计算机组成原理
+- **计算机组成原理**
   - [计算机基本结构](cod/index)
   - [指令集体系结构](cod/isa)
   - [算术运算](cod/)
@@ -15,7 +16,7 @@
   - [连续](calculus/continuity)
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
-- 英语
+- **英语**
   - [语法](en/grammar)
   - [词汇](en/vocabulary)
   - [口语](en/colloquialism)
@@ -26,4 +27,5 @@
   - [zookeeper](awesome/zookeeper)
 - [简历](profile)
 - **Links**
-- [docsify](https://docsify.js.org)
+  - [docsify](https://docsify.js.org)
+  - [mermaid](https://mermaidjs.github.io)

@@ -1,0 +1,23 @@
+### Big-Five
+
+### r-value reference
+  
+  An `lvalue` is an expression that identifies a non-temporary object. An `rvalue` is an expression that identifies a temporary object or is a value (such as a literal constant) not associated with any object.
+```c++
+void foo(int && a)
+{
+    // some magical code
+}
+
+int main()
+{
+    int x;
+    foo(x); // Error. An rValue reference cannot be pointed to a lValue.
+    foo(5);
+    foo( x + 5 );
+
+    int && y = x; // Error. An rValue reference cannot be pointed to a lValue.
+    int && z = 9;
+    return 0;
+}
+```
