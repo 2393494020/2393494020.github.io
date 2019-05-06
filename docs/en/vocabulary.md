@@ -1,5 +1,9 @@
 # life
 
+- assist
+
+  give help; be of service
+  
 - offend
 
 ```
@@ -17,11 +21,37 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
 ```
 
+- emphasize
+- evident
 - arouse
 - treatment
 - exotic
 - leisure
 - casual
+- rustle
+- whisper
+
+  A whisper is the opposite of a shout.
+
+- confide
+
+  to tell something secrect or personal to someone who you trust not to tell anyone else
+
+- appeal
+
+  a request to the public for money, information, or help
+
+- charm
+  
+  a quality that makes you like or feel attracted to someone or something
+
+- accelerate
+
+  to happen or make something happen sooner or faster
+
+-  subsist
+
+  to get enough food or money to stay alive, but no more
 
 - psychological
 - special | particular | peculiar

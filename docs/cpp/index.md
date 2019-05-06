@@ -1,8 +1,7 @@
-### Big-Five
-
 ### r-value reference
   
-  An `lvalue` is an expression that identifies a non-temporary object. An `rvalue` is an expression that identifies a temporary object or is a value (such as a literal constant) not associated with any object.
+  An `lvalue` is an expression that identifies a non-temporary object.  
+  An `rvalue` is an expression that identifies a temporary object or is a value (such as a literal constant) not associated with any object.
 ```c++
 void foo(int && a)
 {
@@ -21,3 +20,19 @@ int main()
     return 0;
 }
 ```
+
+### Big-Five
+
+- Destructor
+
+- Copy Constructor
+
+  It's the `copy constructor` if the existing object is an lvalue.
+
+- Move Constructor
+
+  It's the `move constructor` if the existing object is an rvalue.
+
+- Copy Assignment operator=
+
+- Move Assignment operator=
