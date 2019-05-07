@@ -21,6 +21,9 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
 ```
 
+- preserve
+- trivial
+- conserve
 - emphasize
 - evident
 - arouse
