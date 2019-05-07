@@ -1,5 +1,16 @@
 # life
 
+
+- elaborate
+- abundant
+
+```
+abound
+boundary
+be abundant in wild life/coal/oil
+sufficient
+adequate
+```
 - assist
 
   give help; be of service
@@ -21,11 +32,29 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
 ```
 
+- mood
+- modest
+- humble
+- supercilious
+- syndrome
+- awkward
+- bliss
+
+  a state of extreme happiness  
+  people who are married and still in love are describled as living in wedded bliss.
+
+- infer
 - preserve
 - trivial
+
+  something that is trivial is not importnant or significant
+
 - conserve
 - emphasize
 - evident
+
+  capable of being seen or noticed
+
 - arouse
 - treatment
 - exotic
@@ -52,7 +81,7 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
   to happen or make something happen sooner or faster
 
--  subsist
+- subsist
 
   to get enough food or money to stay alive, but no more
 

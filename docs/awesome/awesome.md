@@ -12,3 +12,7 @@ https://free-ss.site
 #### books
 
 http://bestcbooks.com  
+
+#### resource
+
+https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg/playlists
