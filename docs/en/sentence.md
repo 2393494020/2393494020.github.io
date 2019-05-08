@@ -1,0 +1,1 @@
+Through the years, my mom has taught me many things, not so much through her words, but through her actions.

@@ -1,4 +1,4 @@
-# life
+### life
 
 
 - elaborate
@@ -11,6 +11,12 @@ be abundant in wild life/coal/oil
 sufficient
 adequate
 ```
+
+- obesity
+- epidemic
+
+  the appearance of a particular diease in a large number of people at the same time
+
 - assist
 
   give help; be of service
@@ -50,6 +56,13 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
   something that is trivial is not importnant or significant
 
 - conserve
+
+  the opposite
+
+- converse
+
+  to keep and protect something from damage, change, or waste
+
 - emphasize
 - evident
 
@@ -85,6 +98,13 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
   to get enough food or money to stay alive, but no more
 
+- diagnosis
+
+  a judgement about what a particular illness or problem is, made after examing it  
+  eg.  
+  When we get the results of your blood tests, I should be able to give you a clear diagnosis.
+  
+- oxygen
 - psychological
 - special | particular | peculiar
 
@@ -128,7 +148,7 @@ I thought I'd sneak up on him (= move close to him without him seeing) and give 
 eg.
 The police have decuded that he must have left his apartment yesterday evening.
 ```
-# IT
+### IT
 
 ```
 

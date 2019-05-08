@@ -36,3 +36,7 @@ int main()
 - Copy Assignment operator=
 
 - Move Assignment operator=
+
+### struct
+
+In C++, the `struct` is a relic from the C programming language. A `struct` in C++ is essentially a `class` in which the members default to public. Recall that in a `class`, the members default to private.

@@ -18,6 +18,7 @@
 - **英语**
   - [语法](en/grammar)
   - [词汇](en/vocabulary)
+  - [句子](en/sentence)
   - [口语](en/colloquialism)
   - [阅读](en/reading)
   - [英语国家概况](en/english_speaking_country)
