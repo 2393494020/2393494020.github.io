@@ -15,6 +15,8 @@
   - [极限与连续](calculus/limit_continuity)
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
+- **线性代数**
+  - [Vectors](linear_algebra/vectors)
 - **英语**
   - [语法](en/grammar)
   - [词汇](en/vocabulary)

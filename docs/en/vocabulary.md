@@ -2,6 +2,14 @@
 
 
 - elaborate
+
+  containing a lot of careful detail or many detailed parts:
+  
+  ```
+  eg.
+  You want a plain blouse to go with that skirt - nothing too elaborate.
+  ```
+
 - abundant
 
 ```
@@ -144,10 +152,11 @@ I thought I'd sneak up on him (= move close to him without him seeing) and give 
   
   to reach an anwser or a decision by thinking carefully about the known facts
 
-```
-eg.
-The police have decuded that he must have left his apartment yesterday evening.
-```
+  ```
+  eg.
+  The police have decuded that he must have left his apartment yesterday evening.
+  ```
+
 ### IT
 
 ```

@@ -1,6 +1,4 @@
-# Limit
-
-## Definition
+### Limit
 
 - 函数
 
@@ -29,7 +27,21 @@ $$
 3. 讨论极限请先讨论其是否存在
 4. 极限存在条件：左极限=右极限
 
+#### 数学建模
+
+学习探索解决问题的方法。  
+问题：如何不透过画图求极限？  
+[limf(x)=L]x->c  
+step1. 趋近 = 逼近 = 要多靠近有多靠近  
+step2. 考虑两个靠近  
+step3. 用 e 表示在 y 轴上函数值 f(x) 与 L 的靠近，数学上表示为 | f(x) - L | < e  
+step4. 用 delta 表示 x 轴上自变数 x 与 c 的靠近，数学上表示为 0 < | x - c | < delta  
+
+step3 与 step4 有什么关系？（先后关系，对应关系）  
+每一个 e 的靠近皆有 delta 的靠近来完成  
 
 
-# Continuity
+#### Definition
+
+### Continuity
 
