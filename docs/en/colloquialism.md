@@ -28,6 +28,22 @@ You are dead.
 You are done.
 ```
 
+- 心情沮丧
+
+```  
+depression
+
+1. 抑郁（极度不快乐或沮丧的感觉）
+2. 萧条（严重的经济衰退；经济受挫时）
+3. 下陷（表面被推倒、凹陷或低洼的东西）
+
+eg.
+Green went through a depression after his father's death.
+The Great Depression in the United States was a difficult time to find work, and support family.
+We were planing to build a house on this property, but now we have noticed a big depression on the land, that might lead to flooding.
+
+dejection
+```
 - 过奖了
 
 ```
