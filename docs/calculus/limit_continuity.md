@@ -24,11 +24,11 @@ $$\lim_{x \to 2}f(x)=L$$
 $$\lim_{x \to c}f(x)=L$$
 step1. 趋近 = 逼近 = 要多靠近有多靠近  
 step2. 考虑两个靠近  
-step3. 用 \\(\epsilon\\) 表示在 y 轴上函数值 \\(f(x)\\) 与 L 的靠近，数学上表示为 \\(|f(x) - L| < \epsilon\\)  
-step4. 用 \\(\delta\\) 表示 x 轴上自变数 x 与 c 的靠近，数学上表示为 \\(0 < |x - c| < \delta\\)  
+step3. 用 $\epsilon$ 表示在 y 轴上函数值 $f(x)$ 与 L 的靠近，数学上表示为 $|f(x) - L| < \epsilon$  
+step4. 用 $\delta$ 表示 x 轴上自变数 x 与 c 的靠近，数学上表示为 $0 < |x - c| < \delta$  
 
 step3 与 step4 有什么关系？（先后关系，对应关系）  
-答：每一个 $\epsilon$ 的靠近皆有 \\(\delta\\) 的靠近来完成  
+答：每一个 $\epsilon$ 的靠近皆有 $\delta$ 的靠近来完成  
 
 
 #### Definition
