@@ -114,6 +114,10 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
   
 - oxygen
 - psychological
+- carriculum
+- intrinsic
+
+  Math is an intrinsic part of the school carriculum.
 - special | particular | peculiar
 
 ```

@@ -1,9 +1,9 @@
 - [cpp](cpp/index)
 - [csapp](csapp/index)
-- [数据结构与算法](dsa/index)
-  - [Lists](dsa/lists)
-  - [Trees](dsa/trees)
-  - [Hashing](dsa/hashing)
+- **数据结构与算法分析**
+  - [Lists](ds/lists)
+  - [Trees](ds/trees)
+  - [Hashing](ds/hashing)
 - **计算机组成原理**
   - [计算机基本结构](cod/index)
   - [指令集体系结构](cod/isa)
@@ -11,7 +11,7 @@
   - [处理器](cod/)
   - [存储层次结构](cod/)
 - [操作系统](os/index)
-- [计算机网络](networks/index)
+- [计算机网络](network/index)
 - [机器学习](ml)
 - [深度学习](dl)
 - [微积分](calculus/index)
@@ -19,7 +19,7 @@
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
 - **线性代数**
-  - [Vectors](linear_algebra/vectors)
+  - [Vectors](linear/vectors)
 - **概率论与数理统计**
 - **离散数学**
 - **英语**
@@ -32,6 +32,7 @@
 - [Awesome](awesome/awesome)
   - [docker](awesome/docker)
   - [zookeeper](awesome/zookeeper)
+- [参考书目](books)
 - [简历](profile)
 - **Links**
   - [docsify](https://docsify.js.org)
