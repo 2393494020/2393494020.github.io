@@ -1,6 +1,8 @@
 - [cpp](cpp/index)
 - [数据结构与算法](dsa/index)
-  - [树](dsa/trees)
+  - [Lists](dsa/lists)
+  - [Trees](dsa/trees)
+  - [Hashing](dsa/hashing)
 - **计算机组成原理**
   - [计算机基本结构](cod/index)
   - [指令集体系结构](cod/isa)
