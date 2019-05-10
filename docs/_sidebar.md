@@ -1,4 +1,5 @@
 - [cpp](cpp/index)
+- [csapp](csapp/index)
 - [数据结构与算法](dsa/index)
   - [Lists](dsa/lists)
   - [Trees](dsa/trees)
@@ -19,6 +20,8 @@
   - [微分](calculus/differentiation)
 - **线性代数**
   - [Vectors](linear_algebra/vectors)
+- **概率论与数理统计**
+- **离散数学**
 - **英语**
   - [语法](en/grammar)
   - [词汇](en/vocabulary)
