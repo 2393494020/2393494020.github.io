@@ -175,6 +175,64 @@ To study abroad is my greatest desire.
   
   名词性从句一共有三种：that 从句、whether 从句、疑问词所引导的从句
 
+- 定语从句
+
+  结构：先行词 n. + 关系词 + 陈述句
+  
+  先行词可以是任何名词
+
+  先行词 = 关系词
+  
+  每一个关系词必做句子成分
+  
+  whereby = by which
+
+  介词提前的定语从句，结构为：介词 + which/whom
+
+  --|限定性定语从句|非限定性定语从句
+  --|--|--
+  逗号|无逗号|有逗号
+  先行词|范围不明确|范围明确
+  作用|修饰、限定先行词的范围；从句不能省略|补充说明先行词，从句可以省略
+  翻译|翻译成前置定语|不用往前翻译
+  关系词|不能用 what；作宾语可以省略；指人作宾语，who/whom/that都可以用|不能用that；作宾语不可以省略；指人作宾语，只能用whom；如果修饰整句话，只能用which/as
+
+```
+eg.
+
+Law is a discipline which encourages responsible judgment.
+
+It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers.
+
+In dreams, a window opens a world where logic is suspended and dead people speak.
+
+The other reason why costs are so high is the restrictive guild-like ownership structure of the business. （花费如此之高的另一个原因是商业的限制性公会式所有权结构）
+
+He will call his friend who is working in London.
+He will call his mother, who is working in London.
+
+A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly.
+
+Nevertheless, as any biographer knows, a person's early life and its condition are often the greatest gift to an individual.
+```
+
+- 状语从句
+
+
+- 区别
+  
+  同位语从句|限定性定语从句
+  --|--
+  解释说明n.|修饰限定n.
+  抽象n. + 从句|任意n. + 从句
+  n. + that从句（that不作从句的成分）|n. + that从句（that作从句成分）
+  关系词不能省|n. + 省略关系词的从句
+
+```
+eg.
+The idea that some groups of people may be more intelligent than others is one of those hypotheses that dare not speak its name.
+```
+
 ### 虚拟语气
 
 - 真实条件句
