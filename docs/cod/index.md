@@ -1,4 +1,4 @@
-# Computer Organization And Design
+#### Computer Organization And Design
 
   Programmers who seek to build competitive versions of software will therefore need to increase their knowledge of computer organization.
 
@@ -57,12 +57,12 @@
 1. 主频 = 外频 x 倍频系数
 2. ips，每秒执行指令数
 
-## 进制转换
+### 进制转换
 
   ![](../../images/cod/10_p.png)  
   ![](../../images/cod/p_10.png)
 
-## 编码
+### 编码
 
 - 原码
   

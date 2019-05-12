@@ -6,9 +6,16 @@
   
   [Algorithms](https://book.douban.com/subject/10432347)
 
+- 计算机组成
+  
+  [Computer Organization and Design：The Hardware/Software Interface](https://book.douban.com/subject/25813550)
+
+
 ### 数学
 
 - 微积分
+
+  [Calculus](https://book.douban.com/subject/5504028)
 
 - 线性代数
   
@@ -17,3 +24,7 @@
   [Linear Algebra and Its Applications](https://book.douban.com/subject/1758235)
 
 ### 英语
+
+- 语法
+  
+  [英语魔法师之语法俱乐部](https://book.douban.com/subject/1014914)

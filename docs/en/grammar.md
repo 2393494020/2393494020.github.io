@@ -181,6 +181,8 @@ To study abroad is my greatest desire.
   
   先行词可以是任何名词
 
+  关系词有 which, that, who, whom, whose, why, where
+
   先行词 = 关系词
   
   每一个关系词必做句子成分
@@ -189,13 +191,38 @@ To study abroad is my greatest desire.
 
   介词提前的定语从句，结构为：介词 + which/whom
 
+  what不可以用在定语从句中，定语从句中关系代词用that和which，两者用法上的区别主要为：
+
+  1.that可以指人，也可以指物；which只能指物  
+  2.当先行词是不定代词all, something, anything, everything, none, the one等时，只能用that  
+  如： Is there anything that I can do for you?
+  
+  3.先行词前有形容词的最高修饰时，要用that  
+  如： This is the best film that I have ever seen for years.
+
+  4.先行词前有序数词修饰时，要用that  
+  如： This is the fifth book that I have ever written.
+
+  5.先行词前有形容词only, very, few, little等修饰时，要用that  
+  如： She was the only person that was invited to the palace.
+
+  6.先行词既指人，又指物时，只能用that  
+  7.在非限制性定语从句中，只能用which  
+  如： She made great progress and won a prize, which gave us a surprise.
+
+  8.在介词+关系代词引导的定语从句中，必须用which  
+  如： This is the knife with which John hurt somebody.
+  
+  9.当先行词本身是that的时候，要用which  
+  如： The predicate is that which is said of the subject.
+
 --|限定性定语从句|非限定性定语从句
 --|--|--
 逗号|无逗号|有逗号
 先行词|范围不明确|范围明确
 作用|修饰、限定先行词的范围；从句不能省略|补充说明先行词，从句可以省略
 翻译|翻译成前置定语|不用往前翻译
-关系词|不能用 what；作宾语可以省略；指人作宾语，who/whom/that都可以用|不能用that；作宾语不可以省略；指人作宾语，只能用whom；如果修饰整句话，只能用which/as
+关系词|作宾语可以省略；指人作宾语，who/whom/that都可以用|不能用that；作宾语不可以省略；指人作宾语，只能用whom；如果修饰整句话，只能用which/as
 
 ```
 eg.
