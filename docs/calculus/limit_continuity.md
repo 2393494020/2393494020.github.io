@@ -35,20 +35,20 @@ step3 与 step4 有什么关系？（先后关系，对应关系）
 
 We say that
 $$\lim_{x \to c}f(x)=L$$
-if $\quad\forall\quad\epsilon>0, \quad\exist\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ 0<|x-c|<\delta, \quad |f(x) - L|<\epsilon$
+if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ 0<|x-c|<\delta, \quad |f(x) - L|<\epsilon$
 
 We say that
 $$\lim_{x \to c^+}f(x)=L$$
-if $\quad\forall\quad\epsilon>0, \quad\exist\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ (c,\ c+\delta), \quad |f(x) - L|<\epsilon$
+if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ (c,\ c+\delta), \quad |f(x) - L|<\epsilon$
 
 
 We say that
 $$\lim_{x \to c^-}f(x)=L$$
-if $\quad\forall\quad\epsilon>0, \quad\exist\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ (c-\delta,\ c), \quad |f(x) - L|<\epsilon$
+if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ (c-\delta,\ c), \quad |f(x) - L|<\epsilon$
 
 - Remark
   
-  1.为什么先给 $\epsilon>0$，而后才有 $\exist>0$
+  1.为什么先给 $\epsilon>0$，而后才有 $\exists>0$
   
   答:
 
@@ -56,13 +56,13 @@ if $\quad\forall\quad\epsilon>0, \quad\exist\quad\delta>0, \quad such\ that\quad
 
   2.当 $\epsilon$ 变小时，$\delta$ 也变小，（因为 $f(x)$ 不断靠近 L，需要 $x$ 不断靠近 c 来完成），换言之，$\delta$ 由 $\epsilon$ 决定。
 
-  3.给定 $\epsilon>0$，$\exist\ \delta>0$，$\delta$ 不唯一（比如可以取任意比 $\delta$ 小的任意值）
+  3.给定 $\epsilon>0$，$\exists\ \delta>0$，$\delta$ 不唯一（比如可以取任意比 $\delta$ 小的任意值）
 
-  4.$\exist\ \delta>0$ 可以有两种情况，一种是寻找 $\delta>0$（即需要证明极限），另一种是得到 $\delta>0$（即已给定极限）
+  4.$\exists\ \delta>0$ 可以有两种情况，一种是寻找 $\delta>0$（即需要证明极限），另一种是得到 $\delta>0$（即已给定极限）
 
 - show that
   
-  
+
 
 ### Continuity
 
