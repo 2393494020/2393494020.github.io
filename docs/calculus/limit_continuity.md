@@ -54,15 +54,28 @@ if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\qua
 
   如果先给定$\delta>0$，则给定了自变数 $x$ 的范围$(c-\delta,\ c+\delta)$，其值域就决定了，从而没有所谓$f(x)$与L靠近不靠近的问题
 
-  2.当 $\epsilon$ 变小时，$\delta$ 也变小，（因为 $f(x)$ 不断靠近 L，需要 $x$ 不断靠近 c 来完成），换言之，$\delta$ 由 $\epsilon$ 决定。
+  2.当 $\epsilon$ 变小时，$\delta$ 也变小，（因为 $f(x)$ 不断靠近 L，需要 $x$ 不断靠近 c 来完成），换言之，$\delta$ 由 $\epsilon$ 决定
 
   3.给定 $\epsilon>0$，$\exists\ \delta>0$，$\delta$ 不唯一（比如可以取任意比 $\delta$ 小的任意值）
 
   4.$\exists\ \delta>0$ 可以有两种情况，一种是寻找 $\delta>0$（即需要证明极限），另一种是得到 $\delta>0$（即已给定极限）
 
 - show that
-  
 
+$$\lim_{x \to 3}2x=6$$
+
+proof.
+
+let $\epsilon>0$，
+
+推演过程:  
+$|2x-6|<\epsilon \ =>\ |x-3|<\frac{\epsilon}{2}$
+
+
+take $\delta=\frac{\epsilon}{2}$，Then $\forall\ x\ in\ 0<|x-3|<\delta,\ |2x-6|<\epsilon$
+
+Thearefore,
+$$\lim_{x \to 3}2x=6$$
 
 ### Continuity
 
