@@ -10,8 +10,31 @@ Northen Ireland
 
 The UK is a developed country.  
 
+#### The Norman Conquest(1066)
+
+### The Shaping of the Nation
+
+#### Norman Rule(1066 - 1154)
+
+- William's Rule(1066 - 1087)
+
+  The king owned the land personally
+
+- The Great Charter and the Beginning of Parliament
+
 ### 词汇
 
 - cautious
 - annoy
 - populous
+
+- feudal
+- parliament
+- monarch
+- aristocrat
+- barons' charter = Magna Carta = the Great Charter
+- approval
+- arrest
+- imprison
+- deprive
+- possess
