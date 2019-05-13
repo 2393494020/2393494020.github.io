@@ -37,10 +37,13 @@ We say that
 $$\lim_{x \to c}f(x)=L$$
 if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ 0<|x-c|<\delta, \quad |f(x) - L|<\epsilon$
 
+- left-hand limit
+
 We say that
 $$\lim_{x \to c^+}f(x)=L$$
 if $\quad\forall\quad\epsilon>0, \quad\exists\quad\delta>0, \quad such\ that\quad\forall\ x\ in\ (c,\ c+\delta), \quad |f(x) - L|<\epsilon$
 
+- right-hand limit
 
 We say that
 $$\lim_{x \to c^-}f(x)=L$$
@@ -76,6 +79,8 @@ take $\delta=\frac{\epsilon}{2}$，Then $\forall\ x\ in\ 0<|x-3|<\delta,\ |2x-6|
 
 Thearefore,
 $$\lim_{x \to 3}2x=6$$
+
+#### Theorems
 
 ### Continuity
 

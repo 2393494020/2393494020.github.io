@@ -12,7 +12,7 @@ docker rmi `<image id>`
 docker start `<container id>`  
 docker attach `<container id>`  
 docker exec -it `<container id>` `<shell>`  
-docker build -t `<my image name>` .  
+in a directory which contains `Dockerfile` execute docker build -t `<my image name>` .  
 docker commit -m 'message...' `<container id>` `<image name>`:`<tag>`   
 
 #### 加速
@@ -24,7 +24,7 @@ docker commit -m 'message...' `<container id>` `<image name>`:`<tag>`
 }
 ```
 
-#### 参考资源
+#### references
 
 https://blog.csdn.net/kcp606/article/details/79167898  
 https://www.cnblogs.com/river2005/p/8283700.html  

@@ -25,7 +25,9 @@ Clearly `list` and `vector` support stack operations; 99% of the time they are t
   At the end of file, if the stack is not empty, report an error.
 
 - Postfix Expressions
+
 - Infix to Postfix Conversion
+
 - Function Calls
 
 ### Queues
