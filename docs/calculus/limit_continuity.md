@@ -84,11 +84,30 @@ $$\lim_{x \to 3}2x=6$$
 
 $$\lim_{x \to 3}x^2=9$$
 
+proof.
+
+let $\varepsilon>0$
+
+根据题目 x 靠近 3, 不妨假设(assume) |x - 3| < 1, 所以会有 5 < x + 3 < 7, |x + 3| < 7, 从而 |x - 3| < $\frac{\varepsilon}{7}$
+
+take $\delta = min(\frac{\varepsilon}{7},1)$
+
+Therefore,
+$$\lim_{x \to 3}x^2=9$$
+
+
 #### Theorems
 
 $$\lim_{x \to c}|x|=|c| \quad\forall\ c\in R$$
-
 $$\lim_{x \to c}\sqrt{x}=\sqrt{c} \quad\forall\ c>0$$
+
+- proof 1
+
+$||x|-|c||<|x-c|$
+
+- proof 2
+
+$\sqrt{x} >= 0,\ \frac{|x-c|}{\sqrt{x} + \sqrt{c}} <= \frac{|x-c|}{\sqrt{c}}<\varepsilon$
 
 ### Continuity
 
