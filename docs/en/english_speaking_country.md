@@ -22,7 +22,7 @@ The UK is a developed country.
 
 - The Great Charter and the Beginning of Parliament
 
-### 词汇
+### vocabulary
 
 - cautious
 - annoy
@@ -35,6 +35,8 @@ The UK is a developed country.
 - barons' charter = Magna Carta = the Great Charter
 - approval
 - arrest
+- custody
 - imprison
+- confine
 - deprive
 - possess

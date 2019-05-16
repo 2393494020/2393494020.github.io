@@ -10,6 +10,11 @@
   You want a plain blouse to go with that skirt - nothing too elaborate.
   ```
 
+- inherite
+- hereditary
+- herecy
+- throne
+- monarch
 - abundant
 
 ```
