@@ -10,6 +10,8 @@
   
   [Computer Organization and Design：The Hardware/Software Interface](https://book.douban.com/subject/25813550)
 
+  [Computer Architecture：A Quantitative Approach](https://book.douban.com/subject/7006537)
+
 - 计算机系统
 
   [csapp](https://book.douban.com/subject/26912767)
