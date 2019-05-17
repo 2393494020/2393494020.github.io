@@ -13,6 +13,7 @@
 - [操作系统](os/index)
 - [计算机网络](network/index)
 - [机器学习](ml)
+  [kNN](ml/knn)
 - [深度学习](dl)
 - [微积分](calculus/index)
   - [极限与连续](calculus/limit_continuity)
