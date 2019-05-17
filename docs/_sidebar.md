@@ -13,14 +13,15 @@
 - [操作系统](os/index)
 - [计算机网络](network/index)
 - [机器学习](ml)
-  [kNN](ml/knn)
+  - [kNN](ml/knn)
 - [深度学习](dl)
 - [微积分](calculus/index)
   - [极限与连续](calculus/limit_continuity)
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
 - **线性代数**
-  - [Vectors](linear/vectors)
+  - [Matrix Algebra](linear/matrix)
+  - [Vector Spaces](linear/vector)
 - **概率论与数理统计**
 - **离散数学**
 - **英语**
