@@ -100,6 +100,8 @@ $$\lim_{x \to 3}x^2=9$$
 
 $$\lim_{x \to c}|x|=|c| \quad\forall\ c\in R$$
 $$\lim_{x \to c}\sqrt{x}=\sqrt{c} \quad\forall\ c>0$$
+$$\lim_{x \to c}f(x)=0\ <=>\ \lim_{x \to c}|f(x)|=0$$
+$$\lim_{x \to c}f(x)=L\ <=>\ \lim_{x \to c^+}f(x)=L\ and\ \lim_{x \to c^+}f(x)=L$$
 
 - proof 1
 
@@ -108,6 +110,10 @@ $||x|-|c||<|x-c|$
 - proof 2
 
 $\sqrt{x} >= 0,\ \frac{|x-c|}{\sqrt{x} + \sqrt{c}} <= \frac{|x-c|}{\sqrt{c}}<\varepsilon$
+
+- proof 3
+
+
 
 ### Continuity
 
