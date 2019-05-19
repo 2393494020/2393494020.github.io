@@ -22,6 +22,10 @@ The UK is a developed country.
 
 - The Great Charter and the Beginning of Parliament
 
+- The Renaissance
+
+#### The Civil Wars(1642 - 1651)
+
 ### vocabulary
 
 - cautious
@@ -40,3 +44,41 @@ The UK is a developed country.
 - confine
 - deprive
 - possess
+
+
+## U.S.
+The United States of America
+
+### Land
+
+- Alaska
+
+  in the northwestern cornor of North America    
+  the largest in area
+
+- Hawaii
+
+  lies in the Pacific Ocean
+
+- Rhode Island
+
+  smallest
+
+- Texas
+
+  the largest state of the country on the mainland
+
+- Appalachian Mountains
+- Rocky Mountains
+  
+  Elbert
+
+- Mississippi
+  
+  father of warters  
+  old man river
+### History
+
+- 1783
+
+  In Septemper, 1783, the Treaty of Paris was signed and Britian recognized the independence of the United States.

@@ -76,6 +76,8 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
   to keep and protect something from damage, change, or waste
 
+- tariff
+- leverage
 - emphasize
 - evident
 

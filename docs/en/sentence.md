@@ -2,6 +2,10 @@
   
   Through the years, my mom has taught me many things, not so much through her words, but through her actions.
 
+- Edward Young
+
+  The clouds may drop down titles and estates, and wealth may seek us, but wisdom must be sought.
+
 - Helen Keller
 
   Do not think of today's failures, but of the success that may come tommorrow.  
