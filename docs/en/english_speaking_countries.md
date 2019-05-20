@@ -44,6 +44,9 @@ The UK is a developed country.
 - confine
 - deprive
 - possess
+- monarch
+- commonwealth
+- reign
 
 
 ## U.S.

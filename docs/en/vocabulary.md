@@ -25,6 +25,17 @@ sufficient
 adequate
 ```
 
+- conviction
+- offense
+- punish
+
+  She had a previous conviction for a similar offense.
+
+- pitfall
+
+  a hidden or unsuspected danger or difficulty.  
+  hazard
+
 - obesity
 - epidemic
 
