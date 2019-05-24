@@ -23,22 +23,22 @@
 
 #### 模型机
 
-  ![](../../images/cod/model.png)
+  ![](../../images/computer/model.png)
   
   - 存储器
     
-    ![](../../images/cod/m.png)
+    ![](../../images/computer/m.png)
   
   - 控制器
     
-    ![](../../images/cod/cc.png)  
-    ![](../../images/cod/cc1.png)  
-    ![](../../images/cod/cc2.png)
+    ![](../../images/computer/cc.png)  
+    ![](../../images/computer/cc1.png)  
+    ![](../../images/computer/cc2.png)
 
   - 运算器
   
-    ![](../../images/cod/ca.png)  
-    ![](../../images/cod/ca1.png)
+    ![](../../images/computer/ca.png)  
+    ![](../../images/computer/ca1.png)
   
 #### 指令执行主要步骤
 
@@ -59,8 +59,8 @@
 
 ### 进制转换
 
-  ![](../../images/cod/10_p.png)  
-  ![](../../images/cod/p_10.png)
+  ![](../../images/computer/10_p.png)  
+  ![](../../images/computer/p_10.png)
 
 ### 编码
 
