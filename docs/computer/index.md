@@ -13,6 +13,9 @@
   Hierarchy of Memories  
   Dependability via Redundancy
 
+- assembler
+- assembly
+
 ### 冯.诺依曼
 
   运算器，CA：central arithmetical  
@@ -46,6 +49,8 @@
   译码（decode）  
   执行（execute）  
   回写（write-back）
+
+#### ABI(application binary interface)
 
 #### 外频
 

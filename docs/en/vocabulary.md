@@ -10,6 +10,7 @@
   You want a plain blouse to go with that skirt - nothing too elaborate.
   ```
 
+- tedious(boring)
 - inherite
 - hereditary
 - herecy
@@ -79,6 +80,15 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 
   something that is trivial is not importnant or significant
 
+- critical
+
+  saying that something or someone is bad or wrong
+
+- consequence
+
+  not convenient  
+  not important
+
 - conserve
 
   the opposite
@@ -107,6 +117,11 @@ I did not wish to offend you, I must have mistaken you for one of the...lower cl
 - evident
 
   capable of being seen or noticed
+
+- recognition
+- elegant
+
+  graceful and attractive in appearance or behaviour
 
 - arouse
 - treatment
