@@ -213,3 +213,28 @@ I thought I'd sneak up on him (= move close to him without him seeing) and give 
 ```
 
 ```
+
+### phonetic
+
+- [ɑː]
+
+  fast  
+  startle  
+  argue
+
+- [ʌ]
+
+  cut  
+  blood  
+  london
+
+- [ɔː]
+
+  lord  
+  organ
+
+- [ɒ]
+
+  god  
+  occupy  
+  watch
