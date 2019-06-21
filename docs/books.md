@@ -28,6 +28,8 @@
   
   [Linear Algebra and Its Applications](https://book.douban.com/subject/1758235)
 
+  [Linear Algebra and Its Applications](https://book.douban.com/subject/6853868)
+
 ### 英语
 
 - 语法
