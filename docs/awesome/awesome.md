@@ -20,6 +20,7 @@ http://bestcbooks.com
 
 #### resource
 
+http://huaxiaozhuan.com  
 https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg/playlists
 
 #### 兼职
