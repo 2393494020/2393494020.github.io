@@ -1,3 +1,9 @@
+### copy assignment
+### copy initialization
+### direct initialization(by using parenthesis)
+### brace initialization(uniform initialization)
+### global namespace
+
 ### r-value reference
   
   An `lvalue` is an expression that identifies a non-temporary object.  
