@@ -22,11 +22,3 @@ http://bestcbooks.com
 
 http://huaxiaozhuan.com  
 https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg/playlists
-
-#### 兼职
-
-https://www.proginn.com  
-https://www.yuanjisong.com  
-https://www.clouderwork.com  
-
-http://shiwan163.com
