@@ -214,27 +214,104 @@ I thought I'd sneak up on him (= move close to him without him seeing) and give 
 
 ```
 
-### phonetic
+### 音标
+
+#### 单元音
+
+- [iː]
+
+  eat  
+  sheep  
+  keep  
+  heat  
+  leave
+
+- [i]
+
+  it  
+  ship  
+  hit  
+  live
+
+- [əː]
+
+  bird  
+  her  
+  learn
+
+- [ə]
+
+  ago  
+  sofa  
+  cover
 
 - [ɑː]
 
   fast  
   startle  
-  argue
+  argue  
+  card  
+  dark  
+  hard
 
 - [ʌ]
 
+  much  
+  luck  
+  love  
   cut  
-  blood  
-  london
+  blood    
+  london  
+  cover
 
 - [ɔː]
 
+  walk  
+  saw  
+  law  
+  door  
   lord  
   organ
 
 - [ɒ]
 
+  hot  
+  dog  
+  stop  
+  boss  
   god  
-  occupy  
+  occupy    
   watch
+
+- [uː]
+
+  too  
+  mood  
+  food  
+  move
+
+- [u]
+
+  book  
+  cook  
+  good  
+  put
+
+
+- [æ]
+
+  bad  
+  mad  
+  max  
+  calculus  
+  congratulate  
+  bag  
+  land
+
+- [e]
+  
+  beg  
+  lend  
+  bed
+
+#### 双元音

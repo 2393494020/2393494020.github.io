@@ -1,9 +1,26 @@
 - [cpp](cpp/index)
 - [csapp](csapp/index)
-- **数据结构与算法分析**
-  - [Lists](ds/lists)
+- **Data Structures**
+  - [Stacks](ds/stacks)
+  - [Queues](ds/queues)
+  - [Hash Tables](ds/hash)
+  - [Linked List](ds/list)
   - [Trees](ds/trees)
-  - [Hashing](ds/hashing)
+- **Algorithms**
+  - **Searching**
+    - [Linear Search](algorithms/search/binary.md)
+    - [Binary Search](algorithms/search/binary.md)
+    - [Ternary Search](algorithms/search/binary.md)
+  -**Sorting**
+    - [Bubble Sort](algorithms/sort/bubble.md)
+    - [Selection Sort](algorithms/sort/bubble.md)
+    - [Insertion Sort](algorithms/sort/bubble.md)
+    - [Merge Sort](algorithms/sort/bubble.md)
+    - [Quick Sort](algorithms/sort/bubble.md)
+    - [Counting Sort](algorithms/sort/bubble.md)
+    - [Radix Sort](algorithms/sort/bubble.md)
+    - [Heap Sort](algorithms/sort/bubble.md)
+    - [Bucket Sort](algorithms/sort/bubble.md)
 - **计算机组成原理**
   - [计算机基本结构](computer/index)
   - [指令集体系结构](computer/isa)
