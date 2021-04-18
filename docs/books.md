@@ -14,7 +14,14 @@
 
 - 计算机系统
 
-  [csapp](https://book.douban.com/subject/26912767)
+  [CSAPP](https://book.douban.com/subject/26912767)
+
+  [APUE](https://book.douban.com/subject/25900403)
+
+  [Modern Operating Systems](https://book.douban.com/subject/27096665)
+
+  [Operating Systems: Internals and Design Principles](https://book.douban.com/subject/5064311)
+
 
 ### 数学
 
