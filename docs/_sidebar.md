@@ -36,7 +36,10 @@
   - [极限与连续](calculus/limit_continuity)
   - [导数](calculus/derivative)
   - [微分](calculus/differentiation)
+  - [定积分](calculus/differentiation)
+  - [不定分](calculus/differentiation)
 - **线性代数**
+  - [行列式]
   - [Matrix Algebra](linear/matrix)
   - [Vector Spaces](linear/vector)
 - **概率论与数理统计**
