@@ -39,7 +39,7 @@
   - [定积分](calculus/differentiation)
   - [不定分](calculus/differentiation)
 - **线性代数**
-  - [行列式]
+  - [行列式](linear/determinant)
   - [Matrix Algebra](linear/matrix)
   - [Vector Spaces](linear/vector)
 - **概率论与数理统计**
