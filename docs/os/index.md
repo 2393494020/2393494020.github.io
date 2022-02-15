@@ -13,3 +13,13 @@ subgraph one
   end
 end
 ```
+
+### 启动过程
+bios -> bootloader -> os
+
+### 操作系统与设备和程序交互
+- system call
+
+- exception
+
+- interrupt
